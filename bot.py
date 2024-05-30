@@ -211,8 +211,6 @@ async def genre_roles(ctx):
 
 #----------------------------------------------------------------
 
-#bot.loop.create_task(delete_empty_channels())
-#client = SanctumHelper(intents=intents)
-bot.run("MTIyNDkyNjQ2ODY3NzgzMjcwNA.GqmTyI.7EMVqnKNB4FUZMeiwRV2e1ln85i7ul8x_7-uF0")
+bot.run("*Removed for Security*")
 
 
